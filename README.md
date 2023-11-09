@@ -1,6 +1,6 @@
 # Thiago Soares Mota
 - 📧 E-mail: thiagomota456@gmail.com
-- 🌐 LinkedIn:[LinkedIn](https://www.linkedin.com/in/thiago-soares-m-4413b7129/)
+- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiago-soares-m-4413b7129/)
 - 📱 Twitter: [@thiago10mota](https://twitter.com/thiago10mota)
 
 ## Objetivo e Apresentação
