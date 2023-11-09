@@ -49,7 +49,7 @@ Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em des
 ## Tópicos Pessoais
 
 - 📚 Livros Favoritos:
-  - "[Contagem Regressiva para o Zero Day](https://www.amazon.com.br/Contagem-Regressiva-para-Zero-Day/dp/8550806036)"
+  - "[Contagem Regressiva para o Zero Day]([https://www.amazon.com.br/Contagem-Regressiva-para-Zero-Day/dp/8550806036](https://www.amazon.com.br/Contagem-Regressiva-At%C3%A9-Zero-Day/dp/8574528277/ref=sr_1_1?keywords=contagem+regressiva+para+o+zero+day&qid=1699501642&sr=8-1))"
   - "[Eterna Vigilância](https://www.amazon.com.br/Eterna-Vigil%C3%A2ncia-Edward-Snowden/dp/8551005721)" de Edward Snowden
   - "[Demônio do Meio Dia: Diário sobre Depressão](https://www.amazon.com.br/Dem%C3%B4nio-do-Meio-Dia-Depress%C3%A3o/dp/8535924851)"
   - "[O Alienista](https://www.amazon.com.br/Alienista-Machado-Assis/dp/857232532X)"
