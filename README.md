@@ -28,6 +28,7 @@ Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em des
 
 - **Engenharia de Computação**
   - Centro Federal de Tecnologia de Minas Gerais (CEFET-MG) - Cursando
+  Confirmando questões referentes a volta.
 -->
 ## Cursos Extracurriculares e Outros
 
