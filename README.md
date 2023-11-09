@@ -55,7 +55,7 @@ Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em des
   - O Alienista
   - Um mundo assombrado por demônios
 
-  Estes são alguns dos livros que li recentemente e que me inspiraram. Adoro mergulhar em histórias e aprender mais sobre uma variedade de tópicos, seja tecnologia, psicologia ou literatura clássica.
+  Estes são alguns dos livros que li recentemente e que me inspiraram.
 
 - 🎥 Filmes Favoritos:
   - Com Amor, Van Gogh
