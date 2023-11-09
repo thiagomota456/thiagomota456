@@ -24,11 +24,11 @@ Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em des
 - **Período**: 28/01/2019 - 27/01/2020
 - **Descrição**: Palavras-chave: Software maintenance, C#, Shell Script, System migration, .NET Framework, Git, Version control
 
-## Educação
+<!--## Educação
 
 - **Engenharia de Computação**
   - Centro Federal de Tecnologia de Minas Gerais (CEFET-MG) - Cursando
-
+-->
 ## Cursos Extracurriculares e Outros
 
 - Inglês - Intermediário
