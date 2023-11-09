@@ -49,33 +49,33 @@ Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em des
 ## Tópicos Pessoais
 
 - 📚 Livros Favoritos:
-  - "[Contagem Regressiva para o Zero Day](https://www.amazon.com.br/Contagem-Regressiva-At%C3%A9-Zero-Day/dp/8574528277/ref=sr_1_1?keywords=contagem+regressiva+para+o+zero+day&qid=1699501642&sr=8-1)"
-  - ["[Eterna Vigilância](https://www.amazon.com.br/Eterna-Vigil%C3%A2ncia-Edward-Snowden/dp/8551005721)"](https://www.amazon.com.br/Eterna-vigil%C3%A2ncia-desvendei-sistema-espionagem/dp/8542217438) de Edward Snowden
-  - "[Demônio do Meio Dia: Diário sobre Depressão](https://www.amazon.com.br/Dem%C3%B4nio-do-Meio-Dia-Depress%C3%A3o/dp/8535924851)"
-  - "[O Alienista](https://www.amazon.com.br/Alienista-Machado-Assis/dp/857232532X)"
-  - "[Um mundo assombrado por demônios](https://www.amazon.com.br/mundo-assombrado-pelos-dem%C3%B4nios/dp/8535925475)"
+  - Contagem Regressiva para o Zero Day
+  - Eterna Vigilância de Edward Snowden
+  - O demônio do meio-dia: Uma anatomia da depressão
+  - O Alienista
+  - Um mundo assombrado por demônios
 
   Estes são alguns dos livros que li recentemente e que me inspiraram. Adoro mergulhar em histórias e aprender mais sobre uma variedade de tópicos, seja tecnologia, psicologia ou literatura clássica.
 
 - 🎥 Filmes Favoritos:
-  - "[Com Amor, Van Gogh](https://www.netflix.com/title/80158018)"
-  - "[Piratas do Vale do Silício](https://www.amazon.com.br/Piratas-Vale-Sil%C3%ADcio-Noah-Wyle/dp/B00FFJZH1O)"
-  - Série Clássica de "Star Trek" (Não consegui encontrar uma referência online para esta série)
-  - "[Psicose](https://www.netflix.com/title/60003155)"
-  - "[Um Corpo Que Cai](https://www.amazon.com.br/Corpo-Que-Cai-James-Stewart/dp/B07B8QD4T3)"
-  - "[O Poderoso Chefão](https://www.netflix.com/title/238200025)"
+  - Com Amor, Van Gogh
+  - Piratas do Vale do Silício
+  - Série Clássica de Star Trek
+  - Psicose
+  - Um Corpo Que Cai
+  - O Poderoso Chefão
 
   Observação: Como podem ver, tenho uma queda por filmes velhos
 
 - 🎧 Podcasts Favoritos:
-  - "[Dev Sem Fronteiras](https://open.spotify.com/show/3YnUt1HhjyKmaU08IXbzZy)"
-  - "[Dragões de Garagem](https://open.spotify.com/show/2chpZCn8yElT8lUFclJJaD)"
-  - "[Xadrez Verbal](https://open.spotify.com/show/1zuVN1VLBBZ2I1OHea3pPr)"
-  - "[Projeto Humanos](https://open.spotify.com/show/6edPFnYFbTxF8xsYdj3J2R)"
-  - "[Tecnocracia](https://open.spotify.com/show/3yoBflR3hIlDvi8KDgRPtR)" (Meu preferido)
-  - "[Guerras Culturais](https://open.spotify.com/show/3CZetMX5v9eG1vs7Eq3Z8H)"
-  - "[37 Graus Leila](https://open.spotify.com/show/2dYTQPhCCbz2T7h8zxPxUL)"
-  - "[Praia dos Ossos](https://open.spotify.com/show/2dYTQPhCCbz2T7h8zxPxUL)"
-  - "[Cálice](https://open.spotify.com/show/5CnDmMUG0S5bSSw612fsXc)"
+  - Dev Sem Fronteiras
+  - Dragões de Garagem
+  - Xadrez Verbal
+  - Projeto Humanos
+  - Tecnocracia (Meu preferido)
+  - Guerras Culturais
+  - 37 Graus Leila
+  - Praia dos Ossos
+  - Cálice
 
   Comecei na época em que não havia podcasts no YouTube e o Ivan Misanzuke era uma sub, sub, sub, sub celebridade, kkkk. ( o cara é foda desde que me lembro lá pra 2016)
