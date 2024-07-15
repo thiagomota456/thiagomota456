@@ -5,7 +5,7 @@
 
 ## Objetivo e Apresentação
 
-Sou um desenvolvedor web curioso e entusiasmado. Atualmente, estou focado em desenvolvimento backend com C# e .NET, mas também tenho experiência em scripting com JavaScript e Python. Sou habilidoso em HTML, CSS, JavaScript e Bootstrap. Meu histórico inclui um conhecimento em Linux e a capacidade de criar APIs simples em Java e Spring Boot além do .net. Acredito que o impacto social e humano deve ser considerado ao criar produtos tecnológicos.
+Sou um desenvolvedor web curioso e entusiasmado, focado em desenvolvimento backend com C# e .NET. Possuo habilidades em HTML, CSS, JavaScript e Bootstrap. Tenho algum conhecimento em Linux e sou capaz de criar APIs simples em Java e Spring Boot, além de .NET. Com 4 anos de experiência em .NET, destaco-me no desenvolvimento de crawlers, APIs e Web Services, e tenho experiência no desenvolvimento de software desktop na indústria médica. Estou comprometido em obter o título de Tecnólogo em menos de um ano, com planos de concluir o Bacharelado posteriormente.
 
 ## Experiência Profissional
 
