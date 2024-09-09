@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg fill="none" viewBox="0 0 600 300" width="100%" height="100%" preserveAspectRatio="xMinYMin meet">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <!--style-->
+        <style type="text/css">
+        /* Importação de fontes externas */
+        @import url(https://themes.googleusercontent.com/fonts/css?kit=fpjTOVmNbO4Lz34iLyptLTi9jKYd1gJzj5O2gWsEpXoyck2WCYPEMNySjZN0CHed_kmCvy597kDopqFAXvpeaA);
+
+        /* Estilos personalizados */
+        ul.no-bullets { list-style-type: none; padding-left: 0; }
+        .list-item-bullet::before { content: "\2022"; margin-right: 8px; }
+        .text-left { text-align: left; }
+        .text-right { text-align: right; }
+        .text-center { text-align: center; }
+        .no-margin { margin: 0; }
+        .line-height-1 { line-height: 1.0; }
+
+        /* Cores e fontes */
+        .dark-blue, .large-font { color: #365f91; font-weight: 700; }
+        .light-blue { color: #17365d; font-weight: 700; }
+        .black { color: #000; }
+        .large-font { font-size: 22pt; font-family: "Calibri"; }
+        .medium-font { font-size: 14pt; font-family: "Calibri"; }
+        .small-font { font-size: 12pt; font-family: "Cambria"; }
+        .extra-small-font { font-size: 10pt; font-family: "Times New Roman"; }
+
+        /* Títulos de seção e subseção */
+        .section-title, .subsection-title {
+            font-weight: 700;
+            color: #365f91;
+        }
+        .section-title { font-size: 14pt; font-family: "Calibri"; }
+        .subsection-title { font-size: 12pt; font-family: "Cambria"; color: #000; }
+
+        /* Layout de conteúdo */
+        .content-wrapper {
+            background-color: #fff;
+            max-width: 100%;
+            padding: 7.1pt 72pt 0;
+            position: relative;
+        }
+        .list-item-indent { margin-left: 18pt; }
+
+        /* Botão de troca de idioma */
+        .language-switch {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            background-color: #365f91;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-family: "Calibri";
+            font-size: 10pt;
+            border-radius: 5px;
+        }
+        </style>
+
+        <!--Script-->
+        <script>
+        function switchLanguage() {
+            var elements = document.querySelectorAll("[data-lang]");
+            elements.forEach(function(element) {
+                if (element.getAttribute("data-lang") === "pt") {
+                    element.style.display = (element.style.display === "none") ? "block" : "none";
+                } else {
+                    element.style.display = (element.style.display === "none") ? "block" : "none";
+                }
+            });
+        }
+        </script>
+
+        <!--Conteudo-->
+        <div class="content-wrapper">
+            <!-- Botão de troca de idioma -->
+            <button class="language-switch" onclick="switchLanguage()">Switch Language</button>
+
+            <!-- Conteúdo em Português -->
+            <div data-lang="pt">
+                <p class="text-center large-font">THIAGO SOARES MOTA</p>
+                <div class="text-right">
+                    <span class="medium-font" style="font-weight: bold;">Vespasiano, Minas Gerais</span><br/>
+                    <span class="medium-font">Celular/WhatsApp:</span>
+                    <span class="small-font">+55 (31) 98959-6236</span><br/>
+                    <span class="medium-font">Email:</span>
+                    <span class="small-font">thiagomota456@gmail.com</span><br/>
+                    <span class="medium-font">LinkedIn:</span>
+                    <span class="small-font">linkedin.com/in/thiagosoaresmota</span><br/>
+                    <span class="medium-font">GitHub:</span>
+                    <span class="small-font">github.com/thiagomota456</span>
+                </div>
+
+                <p class="section-title">SOBRE MIM</p>
+                <p class="text-left small-font">
+                    Sou um desenvolvedor web com experiência em backend utilizando C# e .NET, além de dominar habilidades fundamentais em frontend (HTML, CSS, JavaScript). Tenho sólida experiência no desenvolvimento e manutenção de crawlers, APIs e Web Services.<br/>
+                    Atuei em projetos de automação e integração de serviços, principalmente voltados à área fiscal. Atualmente, estou na fase final do curso de Análise e Desenvolvimento de Sistemas e busco oportunidades para aplicar minhas habilidades em ambientes colaborativos e inovadores, onde possa continuar a crescer profissionalmente.
+                </p>
+
+                <p class="section-title">ESCOLARIDADE</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent">
+                        <span class="subsection-title">Tecnólogo em Análise e Desenvolvimento de Sistemas</span><br/>
+                        <span class="small-font">Centro Universitário ETEP – Cursando</span>
+                    </li>
+                    <li class="list-item-indent">
+                        <span class="subsection-title">Engenharia de Computação</span><br/>
+                        <span class="small-font">CEFET-MG – Interrompido</span>
+                    </li>
+                </ul>
+
+                <p class="section-title">COMPETÊNCIAS</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Desenvolvimento Web Full Stack (ASP.NET, REST, SOAP)</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Web Crawling e integração de serviços</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Habilidades avançadas em: C#, HTML, CSS, JavaScript, SQL</span></li>
+                </ul>
+
+                <p class="section-title">EXPERIÊNCIA PROFISSIONAL</p>
+                <p class="text-left subsection-title">Enotas – Desenvolvedor JR III<br/>Nov 2020 - Nov 2023</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Desenvolvimento e manutenção de software em C# para automação de notas fiscais.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Implementação de web crawlers e APIs, lidando com requisições HTTP.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Análise de código para desenvolvimento de crawlers e web services.</span></li>
+                </ul>
+
+                <p class="subsection-title">Bolsista IC – Desenvolvedor Full Stack<br/>Mar 2020 - Dez 2020</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Desenvolvimento de uma aplicação To-do List usando Angular e Ionic.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Criação de backend em Java para controle de login de usuários.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Implementação de animações no app com HTML e CSS3.</span></li>
+                </ul>
+
+                <p class="subsection-title">Fase2 Engenharia e Consultoria Ltda. – Estagiário em Desenvolvimento de Software<br/>Jan 2019 - Jan 2020</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Desenvolvimento e manutenção de software para aparelhos de raio X na área médica.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Migração de sistema .NET Framework para Linux usando Mono.</span></li>
+                </ul>
+
+                <p class="section-title">IDIOMAS</p>
+                <p class="text-left small-font">Inglês Intermediário</p>
+            </div>
+
+            <!-- Conteúdo em Inglês -->
+            <div data-lang="en" style="display: none;">
+                <p class="text-center large-font">THIAGO SOARES MOTA</p>
+                <div class="text-right">
+                    <span class="medium-font" style="font-weight: bold;">Vespasiano, Minas Gerais</span><br/>
+                    <span class="medium-font">Phone/WhatsApp:</span>
+                    <span class="small-font">+55 (31) 98959-6236</span><br/>
+                    <span class="medium-font">Email:</span>
+                    <span class="small-font">thiagomota456@gmail.com</span><br/>
+                    <span class="medium-font">LinkedIn:</span>
+                    <span class="small-font">linkedin.com/in/thiagosoaresmota</span><br/>
+                    <span class="medium-font">GitHub:</span>
+                    <span class="small-font">github.com/thiagomota456</span>
+                </div>
+
+                <p class="section-title">ABOUT ME</p>
+                <p class="text-left small-font">
+                    I am a web developer with backend experience using C# and .NET, in addition to fundamental frontend skills (HTML, CSS, JavaScript). I have solid experience in developing and maintaining crawlers, APIs, and Web Services.<br/>
+                    I have worked on automation and service integration projects, mainly focused on the tax area. Currently, I am in the final stage of my Systems Analysis and Development degree and am seeking opportunities to apply my skills in collaborative and innovative environments where I can continue to grow professionally.
+                </p>
+
+                <p class="section-title">EDUCATION</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent">
+                        <span class="subsection-title">Technologist in Systems Analysis and Development</span><br/>
+                        <span class="small-font">ETEP University Center – Ongoing</span>
+                    </li>
+                    <li class="list-item-indent">
+                        <span class="subsection-title">Computer Engineering</span><br/>
+                        <span class="small-font">CEFET-MG – Interrupted</span>
+                    </li>
+                </ul>
+
+                <p class="section-title">SKILLS</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Full Stack Web Development (ASP.NET, REST, SOAP)</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Web Crawling and service integration</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Advanced skills in: C#, HTML, CSS, JavaScript, SQL</span></li>
+                </ul>
+
+                <p class="section-title">PROFESSIONAL EXPERIENCE</p>
+                <p class="text-left subsection-title">Enotas – Junior Developer III<br/>Nov 2020 - Nov 2023</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Developed and maintained C# software for automating invoices.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Implemented web crawlers and APIs, handling HTTP requests.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Performed code analysis for the development of crawlers and web services.</span></li>
+                </ul>
+
+                <p class="subsection-title">IC Scholar – Full Stack Developer<br/>Mar 2020 - Dec 2020</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Developed a To-do List application using Angular and Ionic.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Created a Java backend for user login management.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Implemented animations in the app with HTML and CSS3.</span></li>
+                </ul>
+
+                <p class="subsection-title">Fase2 Engenharia e Consultoria Ltda. – Software Development Intern<br/>Jan 2019 - Jan 2020</p>
+                <ul class="no-bullets">
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Developed and maintained software for X-ray devices in the medical field.</span></li>
+                    <li class="list-item-indent list-item-bullet"><span class="small-font">Migrated .NET Framework system to Linux using Mono.</span></li>
+                </ul>
+
+                <p class="section-title">LANGUAGES</p>
+                <p class="text-left small-font">Intermediate English</p>
+            </div>
+        </div>
+
+
+    </div>
+  </foreignObject>
+</svg>
