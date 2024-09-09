@@ -1,6 +1,6 @@
 # THIAGO SOARES MOTA
 
-**Vespasiano, Minas Gerais** 
+**Vespasiano, Minas Gerais**<br>
 **Email**: thiagomota456@gmail.com  
 **LinkedIn**: [linkedin.com/in/thiagosoaresmota](https://linkedin.com/in/thiagosoaresmota)  
 **GitHub**: [github.com/thiagomota456](https://github.com/thiagomota456)
