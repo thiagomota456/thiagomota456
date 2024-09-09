@@ -1,7 +1,6 @@
 # THIAGO SOARES MOTA
 
-**Vespasiano, Minas Gerais**  
-**Celular/WhatsApp**: +55 (31) 98959-6236  
+**Vespasiano, Minas Gerais** 
 **Email**: thiagomota456@gmail.com  
 **LinkedIn**: [linkedin.com/in/thiagosoaresmota](https://linkedin.com/in/thiagosoaresmota)  
 **GitHub**: [github.com/thiagomota456](https://github.com/thiagomota456)
