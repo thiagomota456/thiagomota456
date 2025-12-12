@@ -2,10 +2,6 @@
 
 💻 **Desenvolvedor Full Stack | .NET, Java & Spring Boot | Integração de Sistemas Fiscais | Modernização de Sistemas Legados**
 
-Sou desenvolvedor web com experiência em **C#, .NET, Java, Spring Boot e PostgreSQL**.  
-Atuei no desenvolvimento e modernização de sistemas legados, criação de **APIs REST/SOAP** e automação de integrações fiscais.  
-Tenho forte foco em **qualidade de código**, **testes automatizados (JUnit, NUnit, xUnit, Moq)** e **metodologias ágeis** (Scrum, Kanban).
-
 
 ## 🎓 Formação Acadêmica
 
