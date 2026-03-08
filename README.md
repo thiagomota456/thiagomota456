@@ -5,7 +5,6 @@
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Pós-Graduação:** Arquitetura de Software Distribuído – *PUC Minas (2025–2027)*  
 - 💡 **Tecnólogo:** Análise e Desenvolvimento de Sistemas – *Etep Centro Universitário (2024)*
 
 ## 📫 Contato
