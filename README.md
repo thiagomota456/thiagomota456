@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago Soares Mota
+# Hi, I'm Thiago Soares Mota
 
 ### **Full Stack Software Engineer**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a software engineer with extensive experience in the industrial and administrative integration sectors. Currently, I focus on:
 
@@ -23,7 +23,7 @@ I am a software engineer with extensive experience in the industrial and adminis
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### **Backend**
 
@@ -38,15 +38,15 @@ I am a software engineer with extensive experience in the industrial and adminis
 
 ---
 
-## 📊 My Professional Journey
+## My Professional Journey
 
 I have a strong background in creating software solutions that bridge the gap between industrial operations and administrative management. My goal is always to deliver software that is not just functional, but sustainable and easy to scale.
 
-👉 **View my full professional experience on LinkedIn:** [linkedin.com/in/thiagosoaresmota](https://www.linkedin.com/in/thiagosoaresmota)
+**View my full professional experience on LinkedIn:** [linkedin.com/in/thiagosoaresmota](https://www.linkedin.com/in/thiagosoaresmota)
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 * **Email:** [thiagomota456@gmail.com](mailto:thiagomota456@gmail.com)
 * **LinkedIn:** [Thiago Soares Mota](https://www.linkedin.com/in/thiagosoaresmota)
